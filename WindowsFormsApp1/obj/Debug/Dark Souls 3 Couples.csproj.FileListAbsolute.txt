@@ -1,0 +1,38 @@
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\Dark Souls 3 Couples.csprojAssemblyReference.cache
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\Dark Souls 3 Couples.csproj.GenerateResource.cache
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\Dark Souls 3 Couples.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\Dark Souls 3 Couples.csproj.ResolveComReference.cache
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Alex-\Desktop\Proyecto C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\Dark Souls 3 Couples.csprojAssemblyReference.cache
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\Dark Souls 3 Couples.csproj.ResolveComReference.cache
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\Dark Souls 3 Couples.csproj.GenerateResource.cache
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\Dark Souls 3 Couples.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alex-\Desktop\Dark Souls 3 Couples\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
